@@ -1,0 +1,2 @@
+# GerenciaDeConfiguracao
+ad
