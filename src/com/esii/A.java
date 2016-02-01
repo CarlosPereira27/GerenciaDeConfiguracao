@@ -25,5 +25,9 @@ public class A {
 	public void setA3(String A3) { 
 		this.A3 = A3; 
 	}
-			
+	
+	public float soma() {
+		return this.A1 + this.A2;
+	}
+	
 }
