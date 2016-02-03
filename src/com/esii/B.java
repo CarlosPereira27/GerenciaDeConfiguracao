@@ -4,7 +4,7 @@ public class B {
 	
 	private int B1;
 	private float B2;
-	private char B3;
+	private String B4;
 	
 	public int getB1() {
 		return this.B1;
@@ -14,8 +14,8 @@ public class B {
 		return this.B2;
 	}
 	
-	public char getB3() {
-		return this.B3;
+	public String getB4() {
+		return this.B4;
 	}
 	
 	public void setB1(int B1) {
@@ -26,8 +26,8 @@ public class B {
 		this.B2 = B2;
 	}
 	
-	public void setB3(char B3) {
-		this.B3 = B3;
+	public void setB4(String B4) {
+		this.B4 = B4;
 	}
-	
+
 }
