@@ -6,7 +6,8 @@ public class A {
 	private float A2;
 	private String A3;
 	private String Aprinc4;
-
+	private String Aramo4;
+	
 	public int getA1() { 
 		return this.A1; 
 	}
@@ -23,6 +24,10 @@ public class A {
 		return this.Aprinc4; 
 	}
 	
+	public String getAramo4() { 
+		return this.Aramo4; 
+	}
+	
 	public void setA1(int A1) { 
 		this.A1 = A1; 
 	}
@@ -33,6 +38,10 @@ public class A {
 
 	public void setAprinc4(String Aprinc4) { 
 		this.Aprinc4 = Aprinc4; 
+	}
+	
+	public void setAramo4(String Aramo4) { 
+		this.Aramo4 = Aramo4; 
 	}
 	
 	public float soma() {
